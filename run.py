@@ -11,7 +11,7 @@ header = u'''
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css" type="text/css" />
-    <script type="text/javascript">https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.js</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.js"></script>
   </head>
   <body>
     {body}
